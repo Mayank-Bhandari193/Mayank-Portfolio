@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Manual Testing",
+    "organisation": "Besant Technology",
+    "startDate": "Augest, 2023",
+    "endDate": "  October,2023",
+    "experiences": ["Hotel Reservation System Using Selenium With Java(Adactin.com)"],
+    "imageSrc": "history/besant.jpg"
+  },
+  {
+    "role": "Internship",
+    "organisation": "Coding Samurai",
+    "startDate": "Octoer, 2023",
+    "endDate": "November, 2023",
+    "experiences": ["HTML", "CSS","Javascript","Node-JS"],
+    "imageSrc": "history/CodingSamurai.jpg"
+  }
+  
+]

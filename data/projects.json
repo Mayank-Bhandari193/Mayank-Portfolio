@@ -1,0 +1,26 @@
+[
+  {
+    "title": "To Do List",
+    "imageSrc": "projects/project.png",
+    "description": " Create a web-based to-do list application that allows users to manage their tasks and stay organized. This project will involve building a user interface to add, edit, and mark tasks as completed. It's a great way for beginners to learn about web development using HTML, CSS, JavaScript, and potentially a backend technology like Node.js.",
+    "skills": ["HTML", "JAVASCRIPT", "NodeJS","CSS"],
+    "demo": "https://www.linkedin.com/feed/update/urn:li:activity:7125393570831683585/",
+    "source": "https://github.com/Mayank-Bhandari193/Coding-Samurai"
+  },
+  {
+    "title": "Calculation",
+    "imageSrc": "projects/project.png",
+    "description": "Create a simple yet functional calculator web application that users can access through their web browsers. This project is perfect for beginners who want to learn web development basics using HTML, CSS, and JavaScript.",
+    "skills": ["HTML", "CSS","JAVASCRIPT"],
+    "demo": "https://www.linkedin.com/in/mayank-bhandari-3318071ab/recent-activity/all/",
+    "source": "https://github.com/Mayank-Bhandari193/CODING-SAMURAI-INTERNSHIP-TASK1"
+  },
+  {
+    "title": "Personal Blog Website",
+    "imageSrc": "projects/project.png",
+    "description": "Create a personal blog website where you can publish.articles, stories, and thoughts on various topics. This project will give you hands-on experience in web development, including frontend design, backend development (optional), and content management.",
+    "skills": ["HTML", "CSS", "Node JS","JAVASCRIPT"],
+    "demo": "https://www.linkedin.com/in/mayank-bhandari-3318071ab/recent-activity/all/",
+    "source": "https://github.com/Mayank-Bhandari193/Coding-Samurai-Internship-Task-3"
+  }
+]
